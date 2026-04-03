@@ -1,0 +1,27 @@
+0 mercedes
+1 bwm
+2 audi
+3 chevrolet
+4 honda
+5 hyundai
+6 KIA
+7 toyota
+8 wolkswagen
+9 citroen
+10 ferrari
+11 jaguar
+12 jeep
+13 lamborghini
+14 land rover
+15 porsche
+16 maserati
+17 mini cooper
+18 mitsubishi
+19 nıssan
+20 puegeot
+21 range rover
+22 renault
+23 subaru
+24 tesla
+25 volvo
+26 bugatti
